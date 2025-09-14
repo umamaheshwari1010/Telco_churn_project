@@ -1,0 +1,12 @@
+﻿Telco Churn Project
+
+
+Findings (from EDA):
+* “Month-to-month contracts have a ~42% churn rate vs. ~11% (One year) and ~3% (Two year).”
+* “Churners have lower median tenure (10 months) vs. non-churners (38 months).”
+* “Paperless billing linked to ~30% churn vs. ~20% non-paperless.”
+Recommendations:
+* Offer discounts or incentives for month-to-month customers to switch to longer contracts.
+* Target short-tenure customers (<12 months) with retention campaigns (e.g., loyalty programs).
+* Reduce monthly charges for high-risk churners (e.g., >$80/month).
+Impact: “Reducing churn by 5% could retain ~350 customers, adding ~$210,000 annual revenue ($50/customer/month).”
