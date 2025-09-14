@@ -1,5 +1,5 @@
 
-# Telco Churn Analysis
+# Customer Churn Analysis
 Analyzed Telco Customer Churn dataset to identify retention strategies.
 ## Tools
 - Python (pandas, seaborn)
